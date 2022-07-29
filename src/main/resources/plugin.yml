@@ -1,0 +1,11 @@
+name: TeleportBow
+version: '${project.version}'
+main: dev.g3b.teleportbow.TeleportBow
+api-version: 1.19
+authors: [ gab ]
+description: A special bow plugin that teleports you wherever you shoot the arrow!
+website: https://g3b.dev
+commands:
+  givebow:
+    description: Give the player a special bow that teleports them wherever the arrow lands!
+    usage: /<command> [player]

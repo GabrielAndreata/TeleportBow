@@ -1,0 +1,4 @@
+give-on-player-join: true
+bow-name: '&5&lTeleport Bow'
+bow-lore: '&eShoot the arrow and teleport to its location!'
+shot-message: '&eWeeeeee!!'
